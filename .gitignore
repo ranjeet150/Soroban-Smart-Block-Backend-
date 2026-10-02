@@ -8,8 +8,6 @@ build/
 out/
 
 # Environment secrets
-.env
-.env.*
 !.env.example
 
 # Logs
@@ -57,3 +55,4 @@ __pycache__/
 *.pyc
 dist-py/
 *.egg-info/
+config.bat
